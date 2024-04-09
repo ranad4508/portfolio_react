@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/ranad4508",
   resume:
-    "https://drive.google.com/file/d/1MWAZKco0A-VIzIpiZINw165E820zHc-K/view",
+    "https://drive.google.com/file/d/1MWAZKco0A-VIzIpiZINw165E820zHc-K/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/dinesh-rana-616a18225/",
   twitter: "https://twitter.com/dinesh4508",
   insta: "https://www.instagram.com/_iam_krypton/",
@@ -238,10 +238,76 @@ export const projects = [
       "Developed the web application using react js which shows the dominant of AI in todays world. It shows the environment of ChatGPT-3.",
     image:
       "https://raw.githubusercontent.com/ranad4508/GPT-3-using-react/main/gpt-3.png",
-    tags: ["ReactJS", "JavaScript"],
+    tags: ["ReactJS", "JavaScript", "CSS 3"],
     category: "web app",
     github: "https://github.com/ranad4508/GPT-3-using-react",
     webapp: "https://dineshgpt-3.netlify.app/",
+  },
+  {
+    id: 3,
+    title: "Shoes Store",
+    date: "Jan 2024 - Jan 2024",
+    description:
+      "Developed the web application using react js which stores the collection of nike shoes. This web app stores the very nice, stylish and comfortable shoes. This is just a landing page",
+    image:
+      "https://raw.githubusercontent.com/ranad4508/nike-shoes/main/nike.png",
+    tags: ["ReactJS", "JavaScript", "CSS 3"],
+    category: "web app",
+    github: "https://github.com/ranad4508/nike-shoes",
+    webapp: "https://nike-shoes-dinesh.netlify.app/",
+  },
+  {
+    id: 4,
+    title: "Dice Game",
+    date: "Feb 2024 - Feb 2024",
+    description:
+      "Developed the web application using react js. This application is about the dice game where user start game by selecting the numbers and if user wins then 2 points is deducted form total score and if user looses then 2 points are added in total score.",
+    image:
+      "https://raw.githubusercontent.com/ranad4508/dice_game_react/main/dicegame.png",
+    tags: ["ReactJS", "JavaScript"],
+    category: "web app",
+    github: "https://github.com/ranad4508/dice_game_react",
+    webapp: "https://dicegame-dinesh.netlify.app/",
+  },
+  {
+    id: 5,
+    title: "Calculator",
+    date: "April 2024 - April 2024",
+    description:
+      "Developed the web application using react js. This application is about calculator which is capable of doing basic calculation and storing history of calculated data and have dark and light modes.",
+    image:
+      "https://raw.githubusercontent.com/ranad4508/calculator_react/main/calculator.png",
+    tags: ["ReactJS", "JavaScript", "CSS 3"],
+    category: "web app",
+    github: "https://github.com/ranad4508/calculator_react",
+    webapp: "https://calculator-dinesh.netlify.app/",
+  },
+  {
+    id: 6,
+    title: "Expense Tracker",
+    date: "April 2024 - April 2024",
+    description:
+      "Developed the web application using react js. This application is about tracking the expense of user. The negative amount shows the expense and positive amount shows the income of user.",
+    image:
+      "https://raw.githubusercontent.com/ranad4508/expense_tracker-using-react/main/expensetracker.png",
+    tags: ["ReactJS", "JavaScript", "CSS 3"],
+    category: "web app",
+    github:
+      "https://github.com/ranad4508/expense_tracker-using-react/tree/main",
+    webapp: "https://expense-tracker-dinesh.netlify.app/",
+  },
+  {
+    id: 7,
+    title: "Form",
+    date: "April 2024 - April 2024",
+    description:
+      "Developed the web application using react js. This application build while learning react and show the interactive forms for the web application",
+    image:
+      "https://raw.githubusercontent.com/ranad4508/form_react/main/form.png",
+    tags: ["ReactJS", "JavaScript", "CSS 3"],
+    category: "web app",
+    github: "https://github.com/ranad4508/form_react",
+    webapp: "https://form-dinesh.netlify.app/",
   },
   {
     id: 10,
